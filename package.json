@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "daisyui": "^5.5.19",
+    "prettier": "^3.8.3",
+    "prettier-plugin-tailwindcss": "^0.8.0"
+  },
+  "dependencies": {
+    "@types/react": "^19.2.14"
+  }
+}
